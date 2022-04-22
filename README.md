@@ -37,7 +37,9 @@ License.txt is just text format modified from previous time we opensource Qtask 
 6.  Imagemagick
 7.  Anti-Grain Geometry
 
-## Installation and configuration
+## Download, Installation and configuration
+
+[Download source files](https://www.prolific.com/files.cgi/qtask-opensource-all.zip?tab=get&uuid=11J725W8JS43N1LN5TA62FBGF1QT&filename=qtask-opensource-all.zip)
 
 [INSTALL document.](https://www.prolific.com/qwiki.cgi?mode=previewSynd&uuid=U965C78S9639Y33XGKBYVBQB78QT)
 
